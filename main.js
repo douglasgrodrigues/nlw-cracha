@@ -37,6 +37,3 @@ const linksSocialMedia = {
 
  getGitHubProfileInfos()
 
-
-
-

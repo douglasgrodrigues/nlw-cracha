@@ -20,9 +20,9 @@
  }
 
  main{
-   background: url(images/Mobile.png);
-   width: 375px;
-   height: 812px;
+   background: url(images/Mobile.png) no-repeat center/cover;
+   width: 100vw;
+   height: 100vh;
 
    color: var(--gray);
  }
@@ -57,6 +57,7 @@
  h1 {
    font-size: 1.5rem;
    margin-top: 1.5rem;
+   font-size: 1rem;
  }
 
  a {
